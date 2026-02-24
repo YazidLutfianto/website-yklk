@@ -514,3 +514,7 @@
     background-color: #48cae4 !important;
     color: #ffffff !important;
 }
+
+.justify-text {
+    text-align: justify;
+}
